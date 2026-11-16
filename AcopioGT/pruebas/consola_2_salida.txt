@@ -1,0 +1,175 @@
+AcopioGT - Laboratorio 4. Datos de ejemplo cargados sin pagos ni cobros.
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: Código bodega: Capacidad (kg): Tipo: 1. Seca / 2. Cámara fría: Bodega registrada.
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: 1. Café pergamino | 2. Café orgánico | 3. Cardamomo | 4. Hortaliza | 5. Queso fresco
+Categoría: Código único: Productor: Peso recibido (kg): Calidad A/B/C: Humedad (%): Pago: Q120.00 | Vencimiento: No vence
+¿Aceptar y recibir? (S/N): Bodega destino: Lote recibido y pago registrado.
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: Comprador: 1. Café pergamino | 2. Café orgánico | 3. Cardamomo | 4. Hortaliza | 5. Queso fresco
+Categoría: Kilogramos solicitados: Despacho aceptado:
+  Z01 | 500 kg | Q7614.00
+  A01 | 100 kg | Q1215.00
+  NUEVO | 5 kg | Q81.00
+Total: Q8910.00
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: 1. Café pergamino | 2. Café orgánico | 3. Cardamomo | 4. Hortaliza | 5. Queso fresco
+Categoría: Código     Categoría         Bodega     Ingreso      Calidad Kg disp.     Vence        Estado      
+NUEVO      CAFE_PERGAMINO    S3         2026-03-12   A       5            No vence     DISPONIBLE  
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: 
+Bodega S1 | SECA | 580/3000.0 kg
+Código     Categoría         Bodega     Ingreso      Calidad Kg disp.     Vence        Estado      
+C01        CARDAMOMO         S1         2025-09-14   B       80           2026-03-13   DISPONIBLE  
+O01        CAFE_ORGANICO     S1         2026-03-04   A       500          No vence     DISPONIBLE  
+
+Bodega S2 | SECA | 150/3000.0 kg
+Código     Categoría         Bodega     Ingreso      Calidad Kg disp.     Vence        Estado      
+C02        CARDAMOMO         S2         2026-03-02   C       50           2026-08-29   DISPONIBLE  
+O02        CAFE_ORGANICO     S2         2026-03-09   C       100          No vence     DISPONIBLE  
+
+Bodega F1 | FRIA | 400/2000.0 kg
+Código     Categoría         Bodega     Ingreso      Calidad Kg disp.     Vence        Estado      
+H01        HORTALIZA         F1         2026-03-05   A       200          2026-03-12   DISPONIBLE  
+Q01        QUESO_FRESCO      F1         2026-02-20   A       40           2026-03-13   DISPONIBLE  
+H02        HORTALIZA         F1         2026-03-11   B       100          2026-03-18   DISPONIBLE  
+Q02        QUESO_FRESCO      F1         2026-03-10   B       60           2026-03-31   DISPONIBLE  
+
+Bodega S3 | SECA | 5/1000.0 kg
+Código     Categoría         Bodega     Ingreso      Calidad Kg disp.     Vence        Estado      
+NUEVO      CAFE_PERGAMINO    S3         2026-03-12   A       5            No vence     DISPONIBLE  
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: Código     Categoría         Bodega     Ingreso      Calidad Kg disp.     Vence        Estado      
+H01        HORTALIZA         F1         2026-03-05   A       200          2026-03-12   DISPONIBLE  
+Q01        QUESO_FRESCO      F1         2026-02-20   A       40           2026-03-13   DISPONIBLE  
+C01        CARDAMOMO         S1         2025-09-14   B       80           2026-03-13   DISPONIBLE  
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: Categoría                      Pagado          Cobrado         Pérdidas
+CAFE_PERGAMINO                Q120.00         Q8910.00            Q0.00
+CAFE_ORGANICO                   Q0.00            Q0.00            Q0.00
+CARDAMOMO                       Q0.00            Q0.00            Q0.00
+HORTALIZA                       Q0.00            Q0.00            Q0.00
+QUESO_FRESCO                    Q0.00            Q0.00            Q0.00
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: Código     Categoría         Bodega     Ingreso      Calidad Kg disp.     Vence        Estado      
+H01        HORTALIZA         F1         2026-03-05   A       200          2026-03-12   DISPONIBLE  
+Q01        QUESO_FRESCO      F1         2026-02-20   A       40           2026-03-13   DISPONIBLE  
+C01        CARDAMOMO         S1         2025-09-14   B       80           2026-03-13   DISPONIBLE  
+H02        HORTALIZA         F1         2026-03-11   B       100          2026-03-18   DISPONIBLE  
+Q02        QUESO_FRESCO      F1         2026-03-10   B       60           2026-03-31   DISPONIBLE  
+C02        CARDAMOMO         S2         2026-03-02   C       50           2026-08-29   DISPONIBLE  
+Z01        CAFE_PERGAMINO    S2         2026-03-02   A       0            No vence     AGOTADO     
+A01        CAFE_PERGAMINO    S1         2026-03-02   B       0            No vence     AGOTADO     
+O01        CAFE_ORGANICO     S1         2026-03-04   A       500          No vence     DISPONIBLE  
+O02        CAFE_ORGANICO     S2         2026-03-09   C       100          No vence     DISPONIBLE  
+NUEVO      CAFE_PERGAMINO    S3         2026-03-12   A       5            No vence     DISPONIBLE  
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: Hasta pronto.

@@ -1,0 +1,66 @@
+AcopioGT - Laboratorio 4. Datos de ejemplo cargados sin pagos ni cobros.
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: 1. Café pergamino | 2. Café orgánico | 3. Cardamomo | 4. Hortaliza | 5. Queso fresco
+Categoría: Código único: Productor: Peso recibido (kg): Calidad A/B/C: Vida útil (3 a 14 días): Pago: Q760.00 | Vencimiento: 2026-03-19
+No se registró ningún lote ni pago.
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: 1. Café pergamino | 2. Café orgánico | 3. Cardamomo | 4. Hortaliza | 5. Queso fresco
+Categoría: Código único: Productor: Peso recibido (kg): Calidad A/B/C: Vida útil (3 a 14 días): Pago: Q760.00 | Vencimiento: 2026-03-19
+¿Aceptar y recibir? (S/N): No se registró ningún lote ni pago.
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: Categoría                      Pagado          Cobrado         Pérdidas
+CAFE_PERGAMINO                  Q0.00            Q0.00            Q0.00
+CAFE_ORGANICO                   Q0.00            Q0.00            Q0.00
+CARDAMOMO                       Q0.00            Q0.00            Q0.00
+HORTALIZA                       Q0.00            Q0.00            Q0.00
+QUESO_FRESCO                    Q0.00            Q0.00            Q0.00
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: Hasta pronto.

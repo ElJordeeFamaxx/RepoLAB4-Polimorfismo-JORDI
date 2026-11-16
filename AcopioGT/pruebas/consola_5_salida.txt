@@ -1,0 +1,17 @@
+AcopioGT - Laboratorio 4. Datos de ejemplo cargados sin pagos ni cobros.
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: 1. Café pergamino | 2. Café orgánico | 3. Cardamomo | 4. Hortaliza | 5. Queso fresco
+Categoría: Código único: Productor: 
+Entrada finalizada. Hasta pronto.

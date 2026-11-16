@@ -1,0 +1,78 @@
+AcopioGT - Laboratorio 4. Datos de ejemplo cargados sin pagos ni cobros.
+
+Fecha de operación: 2026-03-12
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: Nueva fecha (AAAA-MM-DD): Fecha actualizada; vencidos descartados y pérdidas registradas.
+
+Fecha de operación: 2026-03-13
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: Código     Categoría         Bodega     Ingreso      Calidad Kg disp.     Vence        Estado      
+Q01        QUESO_FRESCO      F1         2026-02-20   A       40           2026-03-13   DISPONIBLE  
+C01        CARDAMOMO         S1         2025-09-14   B       80           2026-03-13   DISPONIBLE  
+
+Fecha de operación: 2026-03-13
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: Categoría                      Pagado          Cobrado         Pérdidas
+CAFE_PERGAMINO                  Q0.00            Q0.00            Q0.00
+CAFE_ORGANICO                   Q0.00            Q0.00            Q0.00
+CARDAMOMO                       Q0.00            Q0.00            Q0.00
+HORTALIZA                       Q0.00            Q0.00          Q760.00
+QUESO_FRESCO                    Q0.00            Q0.00            Q0.00
+
+Fecha de operación: 2026-03-13
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: Nueva fecha (AAAA-MM-DD): Operación rechazada: La nueva fecha debe ser posterior a la actual.
+
+Fecha de operación: 2026-03-13
+1. Preliquidar
+2. Preliquidar y recibir
+3. Registrar bodega
+4. Pedido y despacho
+5. Avanzar fecha
+6. Existencias por categoría
+7. Contenido de bodegas
+8. Próximos vencimientos
+9. Totales económicos
+10. Historial de lotes
+0. Salir
+Opción: Hasta pronto.
